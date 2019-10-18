@@ -69,17 +69,17 @@ public class Main {
         String filePath ;
         String clusterPath;
         String circlePath;
-        filePath="testdata1.txt";
-        clusterPath="testdata1Cluster.txt";
-        circlePath="testdata1Circle.txt";
+//        filePath="testdata1.txt";
+//        clusterPath="testdata1Cluster.txt";
+//        circlePath="testdata1Circle.txt";
 
 //        filePath="testdata2.txt";
 //        clusterPath="testdata2Cluster.txt";
 //        circlePath="testdata2Circle.txt";
 //
-//        filePath="facebook_combined.txt";
-//        clusterPath="facebook_combinedCluster.txt";
-//        circlePath="facebook_combinedCircle.txt";
+        filePath="facebook_combined.txt";
+        clusterPath="facebook_combinedCluster.txt";
+        circlePath="facebook_combinedCircle.txt";
 
 
         a.init("D:/Projects/Louvain/src/"+filePath);
